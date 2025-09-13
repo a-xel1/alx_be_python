@@ -1,9 +1,9 @@
-numb1 = 10
-numb2 = 5
-sum = numb1 + numb2
-difference = numb1 - numb2
-product = numb1 * numb2
+number1 = 10
+number2 = 5
+sum = number1 + number2
+difference = number1 - number2
+product = number1 * number2
 
-print(f"Addition of {numb1} and {numb2} is {sum}")
-print(f"Subtracion of {numb1} and {numb2} is {difference}")
-print(f"Multiplication of {numb1} and {numb2} is {product}")
+print(f"Addition of {number1} and {number2} is {sum}")
+print(f"Subtracion of {number1} and {number2} is {difference}")
+print(f"Multiplication of {number1} and {number2} is {product}")
